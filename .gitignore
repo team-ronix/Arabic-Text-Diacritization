@@ -2,3 +2,4 @@ data/train.txt
 data/val.txt
 data/*.txt
 models/
+data
